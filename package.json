@@ -1,0 +1,12 @@
+{
+  "name": "grunt-webstore-publish",
+  "version": "0.1.0",
+  "description": "Grunt task for updating and publishing items in the Chrome Web Store.",
+  "main": "tasks/publish.js",
+  "author": "Kubilay Kahveci <mkubilayk@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1",
+    "unirest": "^0.5.1"
+  }
+}
